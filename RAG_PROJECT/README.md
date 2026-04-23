@@ -39,12 +39,12 @@ User Query → Retrieval → Context → LLM → Answer
 ## Project Structure
 
 RAG_Project
-src
-data
-screenshots
-main.py
-requirements.txt
-README.md
+- src
+- data
+- screenshots
+- main.py
+- requirements.txt
+- README.md
 
 
 ---
