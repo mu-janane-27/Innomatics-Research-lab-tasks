@@ -79,7 +79,3 @@ Vector database (ChromaDB) and advanced orchestration concepts were studied duri
 This system improves response accuracy by grounding answers in retrieved context rather than generating responses blindly.
 
 ---
-
-## Author
-
-Janane M U
