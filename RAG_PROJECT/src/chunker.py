@@ -8,7 +8,7 @@ def chunk_documents(documents, chunk_size=500, chunk_overlap=100):
     
     chunks = text_splitter.split_documents(documents)
 
-    # ✅ FILTER EMPTY CHUNKS
+    # FILTER EMPTY CHUNKS
     chunks = [c for c in chunks if c.page_content and c.page_content.strip()]
 
     return chunks
