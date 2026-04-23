@@ -67,12 +67,6 @@ python main.py
 
 ---
 
-## Sample Output
-
-(Add your screenshots inside the screenshots folder)
-
----
-
 ## Note
 
 This project demonstrates a simplified RAG pipeline using embedding-based retrieval.  
