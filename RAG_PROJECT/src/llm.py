@@ -1,7 +1,7 @@
 import requests
 
-# 🔥 HARDCODE YOUR REAL KEY HERE
-API_KEY = "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"
+#  HARDCODE YOUR REAL KEY HERE
+API_KEY = "YOUR_API_KEY_HERE"
 
 def call_llm(prompt):
     url = "https://api.groq.com/openai/v1/chat/completions"
